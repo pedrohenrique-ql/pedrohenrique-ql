@@ -13,6 +13,9 @@
 #
 <h3>👨‍💻 Languages and Tools:</h3>
 <span>
+  <a href="https://nodejs.org/en/"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="JavaScript" width="40" height="40"/> 
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a>
