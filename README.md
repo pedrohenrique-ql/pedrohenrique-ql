@@ -1,7 +1,7 @@
 <h1>
    Hello world, I'm Pedro Henrique
    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
-      width="30px">
+      width="35" height="35">
 </h1>
 
 - 📖 I'm studying Computer Science at [UFCG](https://portal.ufcg.edu.br/)
