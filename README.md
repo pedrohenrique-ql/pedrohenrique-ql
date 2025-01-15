@@ -3,7 +3,7 @@
    <img src="./icons/hi-hand.gif" width="32">
 </h1>
 
-- 🎓 I'm studying Computer Science at [UFCG](https://portal.ufcg.edu.br/)
+- 🎓 I'm a Bachelor of Computer Science at [UFCG](https://portal.ufcg.edu.br/)
 - 💻 I’m working as Software Engineer at [Smartiks](https://www.smartiks.com)
 - 📚 I'm always looking for new knowledge
 - 👀 I’m looking to collaborate on **Open Source Projects**
